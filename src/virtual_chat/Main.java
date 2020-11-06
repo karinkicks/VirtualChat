@@ -1,6 +1,8 @@
+package virtual_chat;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        VirtualChat chat = new VirtualChat();
     }
 }
